@@ -4,11 +4,14 @@ require("dotenv").config();
 // import the keys.js file and store it in a variable
 var keys = require("./keys.js");
 
-// access the spotify api module
-var Spotify = require('node-spotify-api');
-
 // access the axios module
 var axios = require("axios");
+
+// access the moment.js module
+var moment = require("moment");
+
+// access the spotify api module
+var Spotify = require('node-spotify-api');
 
 // access keys information
 var spotify = new Spotify(keys.spotify);
@@ -54,7 +57,9 @@ console.log(command + " success!");
 function bandsInTown() {
     axios.get("https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp").then(
         function(response) {
-            console.log(response.data);
+            for (i=0; i<response.data.length; i++) {
+                console.log("Event #" + [i+1] + "\nVenue Name: " + response.data[i].venue.name + "\nCity: " + response.data[i].venue.city + "\nDate: " + moment(response.data[i].datetime).format("L") + "\n");
+            };
         }
     )};
 
@@ -62,7 +67,7 @@ function songSearch() {
 
 };
 
-function moveiSearch() {
+function movieSearch() {
 
 };
 
