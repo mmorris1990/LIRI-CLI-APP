@@ -1,0 +1,840 @@
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=fc9631e10c684752bdea18a398b422d8
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=fc9631e10c684752bdea18a398b422d8
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=fc9631e10c684752bdea18a398b422d8
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=fc9631e10c684752bdea18a398b422d8
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=fc9631e10c684752bdea18a398b422d8
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+11
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+12
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+14
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=fc9631e10c684752bdea18a398b422d8
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=fc9631e10c684752bdea18a398b422d8
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=fc9631e10c684752bdea18a398b422d8
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+19
+song name: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=fc9631e10c684752bdea18a398b422d8
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=fc9631e10c684752bdea18a398b422d8
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=fc9631e10c684752bdea18a398b422d8
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=fc9631e10c684752bdea18a398b422d8
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=fc9631e10c684752bdea18a398b422d8
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=fc9631e10c684752bdea18a398b422d8
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+11
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+12
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+14
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=fc9631e10c684752bdea18a398b422d8
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=fc9631e10c684752bdea18a398b422d8
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=fc9631e10c684752bdea18a398b422d8
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+19
+song name: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=fc9631e10c684752bdea18a398b422d8
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=fc9631e10c684752bdea18a398b422d8
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=fc9631e10c684752bdea18a398b422d8
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=fc9631e10c684752bdea18a398b422d8
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=fc9631e10c684752bdea18a398b422d8
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=fc9631e10c684752bdea18a398b422d8
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+11
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+12
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+14
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=fc9631e10c684752bdea18a398b422d8
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=fc9631e10c684752bdea18a398b422d8
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=fc9631e10c684752bdea18a398b422d8
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+19
+song name: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=fc9631e10c684752bdea18a398b422d8
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=fc9631e10c684752bdea18a398b422d8
+album: 25
+artist(s): Adele
+*****************************
+**********SONG INFO*********
+1
+song name: Hello?
+preview song: null
+album: diary 001
+artist(s): Clairo
+*****************************
+**********SONG INFO*********
+2
+song name: Hello Beautiful
+preview song: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello Beautiful
+artist(s): Noah Schnacky
+*****************************
+**********SONG INFO*********
+3
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): Adele
+*****************************
+**********SONG INFO*********
+4
+song name: Hello My Old Heart
+preview song: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=fc9631e10c684752bdea18a398b422d8
+album: The Oh Hellos EP
+artist(s): The Oh Hellos
+*****************************
+**********SONG INFO*********
+5
+song name: Hello
+preview song: null
+album: Can't Slow Down
+artist(s): Lionel Richie
+*****************************
+**********SONG INFO*********
+6
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=fc9631e10c684752bdea18a398b422d8
+album: 2014 Forest Hills Drive
+artist(s): J. Cole
+*****************************
+**********SONG INFO*********
+7
+song name: Hello (feat. Lil Pump)
+preview song: https://p.scdn.co/mp3-preview/75de8275cac2532fdda5b16d1fe448f5d36a6a9d?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello (feat. Lil Pump)
+artist(s): Ugly God
+*****************************
+**********SONG INFO*********
+8
+song name: You Can't Hurry Love - 2016 Remaster
+preview song: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello, I Must Be Going! (Deluxe Edition)
+artist(s): Phil Collins
+*****************************
+**********SONG INFO*********
+9
+song name: Intergalactic - Remastered
+preview song: null
+album: Hello Nasty (Deluxe Version/Remastered 2009)
+artist(s): Beastie Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Hello, Goodbye - Remastered 2009
+preview song: null
+album: Magical Mystery Tour (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+11
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a19c03080fead4da785057b0dc382d3b0117888?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): 1takejay
+*****************************
+**********SONG INFO*********
+12
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/e42b8ac847d773c6f6972de7c60c7008cf31a724?cid=fc9631e10c684752bdea18a398b422d8
+album: PRETTYMUCH an EP
+artist(s): PRETTYMUCH
+*****************************
+**********SONG INFO*********
+13
+song name: Ready or Not
+preview song: null
+album: Hello My Name Is...
+artist(s): Bridgit Mendler
+*****************************
+**********SONG INFO*********
+14
+song name: Hello!
+preview song: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=fc9631e10c684752bdea18a398b422d8
+album: The Book Of Mormon (Original Broadway Cast Recording)
+artist(s): Andrew Rannells
+*****************************
+**********SONG INFO*********
+15
+song name: Hello, My Name Is
+preview song: null
+album: Into The Light
+artist(s): Matthew West
+*****************************
+**********SONG INFO*********
+16
+song name: Hello Darlin'
+preview song: null
+album: The Very Best Of Conway Twitty
+artist(s): Conway Twitty
+*****************************
+**********SONG INFO*********
+17
+song name: Hello Bitches
+preview song: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello Bitches
+artist(s): CL
+*****************************
+**********SONG INFO*********
+18
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): OMFG
+*****************************
+**********SONG INFO*********
+19
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/3c1802d9bb1e80348da770f1c38d2e63b7a2e5c6?cid=fc9631e10c684752bdea18a398b422d8
+album: TROLLS (Original Motion Picture Soundtrack)
+artist(s): Zooey Deschanel
+*****************************
+**********SONG INFO*********
+0
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=fc9631e10c684752bdea18a398b422d8
+album: 25
+artist(s): Adele
+*****************************
+**********SONG INFO*********
+1
+song name: Hello?
+preview song: null
+album: diary 001
+artist(s): Clairo
+*****************************
+**********SONG INFO*********
+2
+song name: Hello Beautiful
+preview song: https://p.scdn.co/mp3-preview/10a58d5841ccfb4e12cb4651b0b7b7c65b5dfe86?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello Beautiful
+artist(s): Noah Schnacky
+*****************************
+**********SONG INFO*********
+3
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/0b90429fd554bad6785faa2b8931d613db4a0ee4?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): Adele
+*****************************
+**********SONG INFO*********
+4
+song name: Hello My Old Heart
+preview song: https://p.scdn.co/mp3-preview/910ebbbe98672c77cfb41873799ddb95db363ab6?cid=fc9631e10c684752bdea18a398b422d8
+album: The Oh Hellos EP
+artist(s): The Oh Hellos
+*****************************
+**********SONG INFO*********
+5
+song name: Hello
+preview song: null
+album: Can't Slow Down
+artist(s): Lionel Richie
+*****************************
+**********SONG INFO*********
+6
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/4b3df43120daf5eea2b2a21502fe2b359ec17d4f?cid=fc9631e10c684752bdea18a398b422d8
+album: 2014 Forest Hills Drive
+artist(s): J. Cole
+*****************************
+**********SONG INFO*********
+7
+song name: Hello (feat. Lil Pump)
+preview song: https://p.scdn.co/mp3-preview/75de8275cac2532fdda5b16d1fe448f5d36a6a9d?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello (feat. Lil Pump)
+artist(s): Ugly God
+*****************************
+**********SONG INFO*********
+8
+song name: You Can't Hurry Love - 2016 Remaster
+preview song: https://p.scdn.co/mp3-preview/cddedd4dd7339f938daad2355c166f0816ee9271?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello, I Must Be Going! (Deluxe Edition)
+artist(s): Phil Collins
+*****************************
+**********SONG INFO*********
+9
+song name: Intergalactic - Remastered
+preview song: null
+album: Hello Nasty (Deluxe Version/Remastered 2009)
+artist(s): Beastie Boys
+*****************************
+**********SONG INFO*********
+10
+song name: Hello, Goodbye - Remastered 2009
+preview song: null
+album: Magical Mystery Tour (Remastered)
+artist(s): The Beatles
+*****************************
+**********SONG INFO*********
+11
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a19c03080fead4da785057b0dc382d3b0117888?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): 1takejay
+*****************************
+**********SONG INFO*********
+12
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/e42b8ac847d773c6f6972de7c60c7008cf31a724?cid=fc9631e10c684752bdea18a398b422d8
+album: PRETTYMUCH an EP
+artist(s): PRETTYMUCH
+*****************************
+**********SONG INFO*********
+13
+song name: Ready or Not
+preview song: null
+album: Hello My Name Is...
+artist(s): Bridgit Mendler
+*****************************
+**********SONG INFO*********
+14
+song name: Hello!
+preview song: https://p.scdn.co/mp3-preview/6048fb830712558ff5f966949874e9fb4ff6bc0b?cid=fc9631e10c684752bdea18a398b422d8
+album: The Book Of Mormon (Original Broadway Cast Recording)
+artist(s): Andrew Rannells
+*****************************
+**********SONG INFO*********
+15
+song name: Hello, My Name Is
+preview song: null
+album: Into The Light
+artist(s): Matthew West
+*****************************
+**********SONG INFO*********
+16
+song name: Hello Darlin'
+preview song: null
+album: The Very Best Of Conway Twitty
+artist(s): Conway Twitty
+*****************************
+**********SONG INFO*********
+17
+song name: Hello Bitches
+preview song: https://p.scdn.co/mp3-preview/a6f622422822188dca0ad53b634a11d26920f774?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello Bitches
+artist(s): CL
+*****************************
+**********SONG INFO*********
+18
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/9a7358499d83ba55d6fc961576ace6a8aeb96180?cid=fc9631e10c684752bdea18a398b422d8
+album: Hello
+artist(s): OMFG
+*****************************
+**********SONG INFO*********
+19
+song name: Hello
+preview song: https://p.scdn.co/mp3-preview/3c1802d9bb1e80348da770f1c38d2e63b7a2e5c6?cid=fc9631e10c684752bdea18a398b422d8
+album: TROLLS (Original Motion Picture Soundtrack)
+artist(s): Zooey Deschanel
+*****************************
+**********SONG INFO*********
+0
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=fc9631e10c684752bdea18a398b422d8
+album: Harry Styles
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+1
+song name: Scared of the Dark (feat. XXXTENTACION)
+preview song: null
+album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+2
+song name: Or Nah (feat. The Weeknd, Wiz Khalifa & DJ Mustard) - Remix
+preview song: https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=fc9631e10c684752bdea18a398b422d8
+album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+3
+song name: Impatient
+preview song: null
+album: Late Nights: The Album
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+4
+song name: Got Me (with Ari Lennox & Omen feat. Ty Dolla $ign & Dreezy)
+preview song: null
+album: Revenge Of The Dreamers III
+artist(s): Dreamville
+*****************************
+**********SONG INFO*********
+5
+song name: The Sign
+preview song: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+6
+song name: Sign of the Times
+preview song: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=fc9631e10c684752bdea18a398b422d8
+album: Sign of the Times
+artist(s): Harry Styles
+*****************************
+**********SONG INFO*********
+7
+song name: Do You Mean (with Ty Dolla $ign & bülow)
+preview song: https://p.scdn.co/mp3-preview/cd53826cc7865a498b2c3615a396e25297bbc849?cid=fc9631e10c684752bdea18a398b422d8
+album: World War Joy
+artist(s): The Chainsmokers
+*****************************
+**********SONG INFO*********
+8
+song name: The Light
+preview song: null
+album: The Light
+artist(s): Jeremih
+*****************************
+**********SONG INFO*********
+9
+song name: Cinderella (feat. Ty Dolla $ign)
+preview song: https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=fc9631e10c684752bdea18a398b422d8
+album: The Divine Feminine
+artist(s): Mac Miller
+*****************************
+**********SONG INFO*********
+10
+song name: Love U Better (feat. Lil Wayne & The-Dream)
+preview song: https://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+11
+song name: Movin’ Up
+preview song: null
+album: Quality Control: Control The Streets Volume 1
+artist(s): Quality Control
+*****************************
+**********SONG INFO*********
+12
+song name: Woah (feat. Miguel & Ty Dolla $ign)
+preview song: null
+album: The World Is Yours 2
+artist(s): Rich The Kid
+*****************************
+**********SONG INFO*********
+13
+song name: Droptop in the Rain (feat. Tory Lanez)
+preview song: https://p.scdn.co/mp3-preview/ffa127c9856a0c60b5fcddf57ead126dfba2d390?cid=fc9631e10c684752bdea18a398b422d8
+album: Beach House 3
+artist(s): Ty Dolla $ign
+*****************************
+**********SONG INFO*********
+14
+song name: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+preview song: null
+album: Signed To The Streets 3
+artist(s): Lil Durk
+*****************************
+**********SONG INFO*********
+15
+song name: Warning Sign
+preview song: https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=fc9631e10c684752bdea18a398b422d8
+album: A Rush of Blood to the Head
+artist(s): Coldplay
+*****************************
+**********SONG INFO*********
+16
+song name: All That She Wants
+preview song: https://p.scdn.co/mp3-preview/b176774bc04182501c2d5d201afda143b1193f31?cid=fc9631e10c684752bdea18a398b422d8
+album: The Sign (US Album) [Remastered]
+artist(s): Ace of Base
+*****************************
+**********SONG INFO*********
+17
+song name: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+preview song: https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=fc9631e10c684752bdea18a398b422d8
+album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+artist(s): Juicy J
+*****************************
+**********SONG INFO*********
+18
+song name: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+preview song: https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=fc9631e10c684752bdea18a398b422d8
+album: Suicide Squad: The Album
+artist(s): Lil Wayne
+*****************************
+**********SONG INFO*********
+19
+song name: Blessings (feat. Ty Dolla $ign, Anderson .Paak, BJ The Chicago Kid, Raury & Jamila Woods)
+preview song: https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=fc9631e10c684752bdea18a398b422d8
+album: Coloring Book
+artist(s): Chance the Rapper
+*****************************
