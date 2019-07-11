@@ -23,33 +23,38 @@ var fs = require("fs");
 var input = process.argv[2];
 var search = process.argv[3];
 
+// store both inputs for later use
+inputSearch(input, search);
+
 // empty variable to output from the switch
 var command;
 
 // start function based on command
-switch (input) {
-    case "concert-this":
-        command = input;
-        bandsInTown();
-        break;
+function inputSearch(input, search) {
+    switch (input) {
+        case "concert-this":
+            command = input;
+            bandsInTown(search);
+            break;
 
-    case "spotify-this-song":
-        command = input;
-        songSearch();
-        break;
+        case "spotify-this-song":
+            command = input;
+            songSearch(search);
+            break;
 
-    case "movie-this":
-        command = input;
-        movieSearch();
-        break;
+        case "movie-this":
+            command = input;
+            movieSearch(search);
+            break;
 
-    case "do-what-it-says":
-        command = input;
-        randomSearch();
-        break;
+        case "do-what-it-says":
+            command = input;
+            randomSearch(search);
+            break;
 
-    default:
-        command = "not a recognized command";
+        default:
+            command = "not a recognized command";
+    }
 };
 
 // prints the command
@@ -58,7 +63,7 @@ console.log(command + " success!");
 // FUNCTIONS
 
 // BandsinTown Event Search
-function bandsInTown() {
+function bandsInTown(search) {
     // Use Axios to get BandsinTown API Call
     axios.get("https://rest.bandsintown.com/artists/" + search + "/events?app_id=codingbootcamp").then(
         function (response) {
@@ -73,7 +78,7 @@ function bandsInTown() {
 };
 
 // Spotify Song Search
-function songSearch() {
+function songSearch(search) {
     // Input "The Sign" if input is null
     if (search === undefined) {
         search = "The Sign"; //default Song
@@ -99,7 +104,7 @@ function songSearch() {
 };
 
 // OMDB Movie Search
-function movieSearch() {
+function movieSearch(search) {
     // Input "Mr. Nobody" if input is null
     if (search === undefined) {
         search = "Mr. Nobody"
@@ -126,7 +131,7 @@ function randomSearch() {
             return console.log(err);
         }
         var dataArr = data.split(',');
-        search(dataArr[0], dataArr[1]);
+        inputSearch(dataArr[0], dataArr[1]);
     });
 };
 
