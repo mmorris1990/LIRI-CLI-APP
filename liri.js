@@ -123,9 +123,7 @@ function movieSearch(search) {
         );
 };
 
-// Rotten Tomatoes Rating
-
-
+ // fs file search
 function randomSearch() {
     fs.readFile('random.txt', 'utf8', function (err, data) {
         if (err) {
